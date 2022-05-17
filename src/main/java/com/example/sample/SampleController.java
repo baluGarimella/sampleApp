@@ -12,7 +12,7 @@ public class SampleController {
 	 @GetMapping(value="/hello")
 	    public String getAll(){
 			 
-	         return "welcome to sample automatic application";
+	         return "welcome to sample automatics application";
 		 }
 
 }
